@@ -8,9 +8,9 @@
 
 4. numberOfRowsInSection o número de linhas na seção e cellForRowAt faz a mudança de uma celula.
 
-5. a var e let são so utilizadas dentro do metodo e na class/struct podem ser acessadas passando elas para uma variavel externa e tipando ela com o nome da tua struct.
+5. A var e let são so utilizadas dentro do metodo e na class/struct podem ser acessadas passando elas para uma variavel externa e tipando ela com o nome da tua struct.
 
-6.
+6. é uma variavel que o tipo é uma função.
 
 7. São todas as partes que a view passa, antes de carregar, carregada, depois de carregada.
 
